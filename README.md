@@ -11,6 +11,15 @@
 
 ---
 
+### GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ivant8k&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
 ### Technical Skills
 
 #### Programming Languages
@@ -48,10 +57,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
 </p>
 
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivant8k&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
