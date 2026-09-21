@@ -5,8 +5,10 @@
   <a href="mailto:ivantsslbn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ivantsslbn%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/ivant-samuel-silaban-37ba5b302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ivant%20Samuel%20Silaban-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://codeforces.com/profile/artukrias" target="_blank"><img src="https://img.shields.io/badge/Codeforces-artukrias-blue?style=flat-square&logo=codeforces" alt="Codeforces" /></a>
-  <a href="https://www.leetcode.com/ivant" target="_blank"><img src="https://img.shields.io/badge/LeetCode-ivant-orange?style=flat-square&logo=leetcode" alt="LeetCode" /></a>
-  <a href="https://discord.gg/sleepyartorias" target="_blank"><img src="https://img.shields.io/badge/Discord-sleepyartorias-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.leetcode.com/sleepyartorias" target="_blank"><img src="https://img.shields.io/badge/LeetCode-sleepyartorias-orange?style=flat-square&logo=leetcode" alt="LeetCode" /></a>
+  <a href="https://discord.com/users/516593026944991232" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-sleepyartorias-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ---
