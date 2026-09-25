@@ -16,9 +16,9 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivant8k&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ivant8k&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivant8k&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Most Used Languages" height="165" />
 </p>
-
 
 ---
 
